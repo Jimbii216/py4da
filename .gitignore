@@ -1,4 +1,5 @@
 venv/
 Projects/
-week 1/
 sandbox.*
+.DS_STORE
+out.csv
