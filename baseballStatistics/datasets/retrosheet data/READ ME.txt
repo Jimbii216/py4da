@@ -1,0 +1,7 @@
+This folder contains three files:
+
+	2025plays.csv - a documentation of every play from the 2025 season
+	allplayers.csv - a list of every player in Major League Baseball history
+	batting.csv - a game-by-game breakdown of every Major League player's career
+
+these folders are too large to push to GitHub, but can be found here: https://www.retrosheet.org/
