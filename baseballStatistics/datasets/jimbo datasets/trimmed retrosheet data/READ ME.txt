@@ -1,0 +1,4 @@
+This folder contains the dataset that I have created from the retrosheet raw data. 
+
+
+This READ ME asks as a placeholder, so the files display nicely on GitHub.
