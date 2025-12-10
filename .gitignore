@@ -3,3 +3,4 @@ Projects/
 sandbox.*
 .DS_STORE
 out.csv
+baseballStatistics/datasets/retrosheet data/batting/batting.csv

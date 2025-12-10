@@ -1,0 +1,42 @@
+gid              Game ID
+id               Player ID
+team             Team ID
+b_lp             player's lineup position (if known)
+b_seq            order in which the player appears
+                 (1 = starter, 2 = 2nd player at given lineup slot, etc.)
+stattype         'value', 'official', 'lower', or 'upper': 
+                 'upper' and 'lower' bounds are shown for some stats to highlight data uncertainty
+                 'official' identifies discrepancies between Retrosheet accounts and official statistics
+b_pa             plate appearances
+b_ab             at bats
+b_r              runs scored
+b_h              hits
+b_d              doubles
+b_t              triples
+b_hr             home runs
+b_rbi            runs batted in
+b_sh             sacrifice hits
+b_sf             sacrifice flies
+b_hbp            times hit by pitch
+b_w              walks
+b_iw             intentional walks
+b_k              strikeouts
+b_sb             stolen bases
+b_cs             times caught stealing
+b_gdp            times grounded in double play by team's batters
+b_xi             times reached base on catcher's interference
+b_roe            times reached base via error
+dh               did the player DH in the game
+ph               did the player pinch hit
+pr               did the player pinch run
+date             date of game
+number           game number (0 if single game; 1, 2, etc. if multiple games on same date)
+site             location of game
+vishome		 'v' if team was visiting team; 'h' if team was home team
+opp              team's opponent in game
+win              equal to one if team won the game
+loss		 equal to one if team lost the game
+tie		 equal to one if game ended in a tie
+gametype         type of game (e.g., regular-season, exhibition, etc.)
+box              do we have a box score; blank indicates 'no'
+pbp              do we have a play-by-play account; d = deduced account, y = play-by-play account from newspaper or scorecard; blank indicates 'no'

@@ -1,0 +1,27 @@
+allplayers.csv
+--------------
+id               RetroID
+last             Last name
+first            First name
+bat              How a player bats: B (both), L, R
+throw            How a player throws - unknown batting or throwing will be indicated by "?"
+team             Retrosheet's TeamID - each player will have a separate line for each team for which the team appeared
+g		 Games played
+g_p		 Games played as a pitcher
+g_sp		 Games played as a starting pitcher
+g_rp		 Games played as a relief pitcher
+g_c		 Games played as a catcher
+g_1b		 Games played as a first baseman
+g_2b		 Games played as a second baseman
+g_3b		 Games played as a third baseman
+g_ss		 Games played as a shortstop
+g_lf		 Games played as a left fielder
+g_cf		 Games played as a center fielder
+g_rf		 Games played as a right fielder
+g_of		 Games played as a outfielder
+g_dh		 Games played as a designated hitter
+g_ph		 Games played as a pinch hitter
+g_pr		 Games played as a pinch runner
+first_g		 First game played by player in season for team for which Retrosheet has game information
+last_g		 Last game played by player in season for team for which Retrosheet has game information - first_g, last_g include all gametypes
+season		 Season - players are listed separate for each team-season in which they played
